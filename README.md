@@ -1,7 +1,7 @@
-- 👋 Hola, soy Luis. @Luishi9.
-- 👀 Interes: Estoy interesado en el desarrollo de aplicaciones web.
+- 👋 Hola, soy Luis Eduardo. @Luishi9.
+- 👀 Interes: Estoy interesado en el desarrollo de aplicaciones web y moviles.
 - 🖊️ Estudios: Ingenieria en Tecnologias de la Información. (Me estoy enfocando en el desarrollo de paginas web).
-- 📫 Contacto: A mi correo: luisrubin977@gmail.com ...
+- 📫 Contacto: A mi correo: luisrubin977@gmail.com
 - 😄 Pronombre: Luishi
 
 <!---
